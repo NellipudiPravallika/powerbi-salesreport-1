@@ -8,7 +8,7 @@ This table contains the sales according to every state.
 
 2.DATASET USED:
 
-dataset <a href="">dataset</a>
+  <a href="https://github.com/NellipudiPravallika/powerbi-salesreport-1/blob/master/sales-dashboard-1.pbix">dataset</a>
 
 3.QUESTIONS:
 
@@ -25,12 +25,14 @@ dataset <a href="">dataset</a>
   11. what is the average of units sold in october,november,december?
   12.what is the count of product category?
   13.Dashboard interaction <a href="https://github.com/NellipudiPravallika/powerbi-salesreport-1/blob/master/Screenshot%20(258).png">view dashboard</a>
+  
 4.PROCESS:
 
   1. I verified all the data in the table and performed data cleaning.
   2. I used some DAX functions and created columns and measures
   3. By using that measures and table i prerformed data visualization and created a dashboared in powerbi
   4. DASHBOARD:<img src="https://github.com/NellipudiPravallika/powerbi-salesreport-1/blob/master/Screenshot%20(258).png">
+  
 6.PROJECT INSIGHTS:
 
 1.November month has highest GMROI 2.clothing product category has highest sales 3.sports and outdoors product category has lowest sales 4.pets,home&kitchen also has lowest sales 5."electronics" product category has highest profit and "pets" has lowest profit 6."NC" state has lowest sales and profit
